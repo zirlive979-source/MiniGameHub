@@ -16,3 +16,4 @@ Buka `index.html` di browser. Tidak membutuhkan server untuk versi dasar.
 
 ## Catatan
 Beberapa game arcade menggunakan mekanik ringan yang dibuat agar project tetap kecil dan mudah dikembangkan.
+FREE SOURCE CODE FILE.ZIP
